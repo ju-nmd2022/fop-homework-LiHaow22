@@ -1,3 +1,8 @@
+/*
+This is my emoji and also first attempt to draw in p5
+Foundations of Programming
+Jönköping University
+*/
 background(255, 255, 255);
 noStroke();
 
